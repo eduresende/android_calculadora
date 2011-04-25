@@ -1,13 +1,11 @@
 Um projeto simples para aprendizado de android.
 
-feito apartir de um tutorial.
+baseado no tutorial contido na apostila do Luciano Alves da Silva
 
-coisas que eu adicionei.
+Coisas que eu adicionei:
+* botoes para outras operacoes (inicialmente so tinha soma)
+* criacao de funçoes para reduzir a repeticao de codigo
+* verificacao de divizao por zero.
 
-botoes para outras operacoes (inicialmente so tinha soma)
-criacao de funçoes para reduzir a repeticao de codigo
-verificacao de divizao por zero.
-
-
-baseado no tutorial contido na apostila do Luciano Alves da Silva (lucianopascal@yahoo.com.br)
+Link para o tutorial
 www.apostilaandroid.ueuo.com
